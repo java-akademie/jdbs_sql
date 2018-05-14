@@ -6,7 +6,7 @@
                              http://maven.apache.org/xsd/maven-4.0.0.xsd">
     
     <modelVersion>4.0.0</modelVersion>
-    <groupId>ch.jmildner</groupId>
+    <groupId>ch.jmildner.jdbs</groupId>
     <artifactId>jdbs_sql</artifactId>
     <version>1.8.0</version>
     <packaging>jar</packaging>
