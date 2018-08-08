@@ -6,3 +6,8 @@ jdbs_sql wird in NetBeans 8.2 erneuert
 mit GroupId ch.jmildner
 und in GitHub gespeichert 
 
+
+
+### 08.08.2018
+aus Bitbucket entfertnt
+
